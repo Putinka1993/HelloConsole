@@ -1,0 +1,15 @@
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/bin/Debug/net7.0/example001_HelloConsole
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/bin/Debug/net7.0/example001_HelloConsole.deps.json
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/bin/Debug/net7.0/example001_HelloConsole.runtimeconfig.json
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/bin/Debug/net7.0/example001_HelloConsole.dll
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/bin/Debug/net7.0/example001_HelloConsole.pdb
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.AssemblyInfo.cs
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.dll
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/refint/example001_HelloConsole.dll
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.pdb
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/example001_HelloConsole.genruntimeconfig.cache
+/Users/vladislavlipkin/Desktop/c#test/examples/example001_HelloConsole/obj/Debug/net7.0/ref/example001_HelloConsole.dll
